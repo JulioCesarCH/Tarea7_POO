@@ -1,4 +1,4 @@
-package Tarea6;
+package Tarea7;
 import javax.swing.*;
 public class SumaMatriz {
     private int A[][];
